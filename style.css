@@ -12,14 +12,14 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6;
     margin: 0;
-    color: #000b9e;             /* marrom escuro (texto) */
-    background-color: #8679fc;  /* creme (fundo) */
+    color: #5a3600;             /* marrom escuro (texto) */
+    background-color: #7c4600;  /* creme (fundo) */
 }
 
 /* ===== Cabeçalho ===== */
 .cabecalho {
-    background-color: #322ee7;  /* âmbar escuro — texto branco tem contraste AA */
-    color: #5eaffc;
+    background-color: #7a5000;  /* âmbar escuro — texto branco tem contraste AA */
+    color: #523100;
     text-align: center;
     padding: 24px 16px;
 }
@@ -34,7 +34,7 @@ body {
 }
 
 .menu a {
-    color: hsl(231, 42%, 47%);
+    color: hsl(27, 100%, 19%);
     text-decoration: none;
     margin: 0 10px;
     font-weight: bold;
