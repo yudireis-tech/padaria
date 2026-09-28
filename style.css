@@ -67,10 +67,10 @@ blockquote {
 
 .card {
     flex: 1 1 250px;       /* cresce, encolhe, largura base 250px */
-    border: 1px solid #552900;
+    border: 1px solid #fd5151;
     border-radius: 8px;
     padding: 12px;
-    background-color: #582b00;
+    background-color: #ff5a5a;
 }
 
 .card img {
@@ -99,20 +99,20 @@ blockquote {
 
 .tabela-cardapio th,
 .tabela-cardapio td {
-    border: 1px solid #E0C9A6;
+    border: 1px solid #eb5e5e;
     padding: 10px;
     text-align: left;
 }
 
 .tabela-cardapio thead {
-    background-color: #A0521A;
-    color: #FFFFFF;
+    background-color: #ff4f4f;
+    color: #ff5050;
 }
 
 /* ===== Rodapé ===== */
 .rodape {
-    background-color: #572400;
-    color: #FFFFFF;
+    background-color: #ff5050;
+    color: #f74b4b;
     text-align: center;
     padding: 16px;
     margin-top: 24px;
