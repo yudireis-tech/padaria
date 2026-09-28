@@ -34,7 +34,7 @@ body {
 }
 
 .menu a {
-    color: hsl(27, 98%, 17%);
+    color: hsl(27, 100%, 23%);
     text-decoration: none;
     margin: 0 10px;
     font-weight: bold;
@@ -52,10 +52,10 @@ main {
 }
 
 blockquote {
-    border-left: 4px solid #A0521A;
+    border-left: 4px solid #723103;
     margin: 0 0 16px;
     padding: 8px 16px;
-    background-color: #c96b00;
+    background-color: #743902;
 }
 
 /* ===== Cards de destaque (Flexbox) ===== */
@@ -67,10 +67,10 @@ blockquote {
 
 .card {
     flex: 1 1 250px;       /* cresce, encolhe, largura base 250px */
-    border: 1px solid #994a00;
+    border: 1px solid #552900;
     border-radius: 8px;
     padding: 12px;
-    background-color: #8a4300;
+    background-color: #582b00;
 }
 
 .card img {
@@ -111,7 +111,7 @@ blockquote {
 
 /* ===== Rodapé ===== */
 .rodape {
-    background-color: #3B2A1E;
+    background-color: #572400;
     color: #FFFFFF;
     text-align: center;
     padding: 16px;
