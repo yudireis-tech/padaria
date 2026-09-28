@@ -34,7 +34,7 @@ body {
 }
 
 .menu a {
-    color: hsl(27, 100%, 19%);
+    color: hsl(27, 98%, 17%);
     text-decoration: none;
     margin: 0 10px;
     font-weight: bold;
@@ -70,7 +70,7 @@ blockquote {
     border: 1px solid #994a00;
     border-radius: 8px;
     padding: 12px;
-    background-color: #750000;
+    background-color: #8a4300;
 }
 
 .card img {
