@@ -12,14 +12,14 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.6;
     margin: 0;
-    color: #5a3600;             /* marrom escuro (texto) */
-    background-color: #7c4600;  /* creme (fundo) */
+    color: #ff3546;             /* marrom escuro (texto) */
+    background-color: #eb4a5f;  /* creme (fundo) */
 }
 
 /* ===== Cabeçalho ===== */
 .cabecalho {
-    background-color: #7a5000;  /* âmbar escuro — texto branco tem contraste AA */
-    color: #523100;
+    background-color: #f33f3f;  /* âmbar escuro — texto branco tem contraste AA */
+    color: #f86161;
     text-align: center;
     padding: 24px 16px;
 }
@@ -34,7 +34,7 @@ body {
 }
 
 .menu a {
-    color: hsl(27, 100%, 23%);
+    color: hsl(0, 100%, 66%);
     text-decoration: none;
     margin: 0 10px;
     font-weight: bold;
@@ -52,10 +52,10 @@ main {
 }
 
 blockquote {
-    border-left: 4px solid #723103;
+    border-left: 4px solid #ff4545;
     margin: 0 0 16px;
     padding: 8px 16px;
-    background-color: #743902;
+    background-color: #f15050;
 }
 
 /* ===== Cards de destaque (Flexbox) ===== */
